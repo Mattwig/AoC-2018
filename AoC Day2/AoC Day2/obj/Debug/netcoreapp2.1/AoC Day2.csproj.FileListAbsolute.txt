@@ -1,0 +1,11 @@
+D:\SoftwareDevelopment\Advent of Code\AoC-2018\AoC Day2\AoC Day2\bin\Debug\netcoreapp2.1\AoC Day2.deps.json
+D:\SoftwareDevelopment\Advent of Code\AoC-2018\AoC Day2\AoC Day2\bin\Debug\netcoreapp2.1\AoC Day2.runtimeconfig.json
+D:\SoftwareDevelopment\Advent of Code\AoC-2018\AoC Day2\AoC Day2\bin\Debug\netcoreapp2.1\AoC Day2.runtimeconfig.dev.json
+D:\SoftwareDevelopment\Advent of Code\AoC-2018\AoC Day2\AoC Day2\bin\Debug\netcoreapp2.1\AoC Day2.dll
+D:\SoftwareDevelopment\Advent of Code\AoC-2018\AoC Day2\AoC Day2\bin\Debug\netcoreapp2.1\AoC Day2.pdb
+D:\SoftwareDevelopment\Advent of Code\AoC-2018\AoC Day2\AoC Day2\obj\Debug\netcoreapp2.1\AoC Day2.csprojAssemblyReference.cache
+D:\SoftwareDevelopment\Advent of Code\AoC-2018\AoC Day2\AoC Day2\obj\Debug\netcoreapp2.1\AoC Day2.csproj.CoreCompileInputs.cache
+D:\SoftwareDevelopment\Advent of Code\AoC-2018\AoC Day2\AoC Day2\obj\Debug\netcoreapp2.1\AoC Day2.AssemblyInfoInputs.cache
+D:\SoftwareDevelopment\Advent of Code\AoC-2018\AoC Day2\AoC Day2\obj\Debug\netcoreapp2.1\AoC Day2.AssemblyInfo.cs
+D:\SoftwareDevelopment\Advent of Code\AoC-2018\AoC Day2\AoC Day2\obj\Debug\netcoreapp2.1\AoC Day2.dll
+D:\SoftwareDevelopment\Advent of Code\AoC-2018\AoC Day2\AoC Day2\obj\Debug\netcoreapp2.1\AoC Day2.pdb
