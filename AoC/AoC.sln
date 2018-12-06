@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AoC Day3", "AoC\AoC Day3.csproj", "{99B4BC89-4442-4019-9B4C-23286B7E5D54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AoC Day1", "AoC Day1\AoC Day1\AoC Day1.csproj", "{58593F8A-4AB5-4370-BA79-1C1C694367B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AoC Day2", "AoC Day2\AoC Day2\AoC Day2.csproj", "{5C8E53F5-35BB-44D4-B7CB-E577509BADD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B4BC89-4442-4019-9B4C-23286B7E5D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B4BC89-4442-4019-9B4C-23286B7E5D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B4BC89-4442-4019-9B4C-23286B7E5D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B4BC89-4442-4019-9B4C-23286B7E5D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58593F8A-4AB5-4370-BA79-1C1C694367B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58593F8A-4AB5-4370-BA79-1C1C694367B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58593F8A-4AB5-4370-BA79-1C1C694367B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58593F8A-4AB5-4370-BA79-1C1C694367B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C8E53F5-35BB-44D4-B7CB-E577509BADD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C8E53F5-35BB-44D4-B7CB-E577509BADD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C8E53F5-35BB-44D4-B7CB-E577509BADD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C8E53F5-35BB-44D4-B7CB-E577509BADD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0554D73A-8FC5-4826-8BC2-69FDC33801C5}
+	EndGlobalSection
+EndGlobal
